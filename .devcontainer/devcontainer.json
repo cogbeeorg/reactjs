@@ -14,7 +14,7 @@
        "repositories": {
         "cogbeeorg/reactjs": {
           "permissions": {
-            "issues": "write"
+            "issues": "write-all"
           }
         }
       },
