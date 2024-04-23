@@ -11,13 +11,6 @@
   },
   "customizations": {
     "codespaces": {
-       "repositories": {
-        "cogbeeorg/reactjs": {
-          "permissions": {
-            "issues": "write-all"
-          }
-        }
-      },
       "openFiles": [
         "src/App.js"
       ]
